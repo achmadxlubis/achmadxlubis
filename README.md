@@ -82,21 +82,27 @@ I am open to working across multiple industries, including:
 
 ---
 
-## 📊 Featured Project
+<h3 align="center">📊 Featured Project of Meta Ads Campaign</h3>
+<p align="center">
+</p>
 
-### 🚀 Full Funnel Meta Ads Campaign Strategy
-**Performance Marketing for Better Junk**
+<p align="center">
 
-- 📌 Campaign Type: Facebook & Instagram Ads Funnel Strategy  
-- 🎯 Objective: Lead Generation Optimization  
-- 📈 Result: **32 Qualified Leads Generated**  
+<img src="https://img.shields.io/badge/📊%20Meta%20Ads%20Campaign-Performance%20Marketing-0f172a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎯%20Objective-Lead%20Generation%20Optimization-1e3a8a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📈%20Result-32%20Qualified%20Leads%20Generated-22c55e?style=for-the-badge"/>
 
-**Focus Areas:**
-- Funnel Strategy (TOFU - MOFU - BOFU)
-- Audience Targeting Optimization
-- Creative Testing & A/B Testing
-- Conversion Tracking Setup
-- Campaign Performance Optimization
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Funnel-TOFU%20MOFU%20BOFU-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Audience%20Targeting-Optimization-1e3a8a?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/A%2FB%20Testing-Creative%20Experiments-7c3aed?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tracking-Conversion%20Setup-ef4444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Optimization-Performance%20Improvement-22c55e?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -109,7 +115,7 @@ I am open to working across multiple industries, including:
 </a>
 
 <a href="https://www.capcut.com/" target="_blank">
-<img src="https://img.shields.io/badge/CapCut-0d1117?style=for-the-badge&logo=capcut&logoColor=white"/>
+<img src="htt  ps://img.shields.io/badge/CapCut-0d1117?style=for-the-badge&logo=capcut&logoColor=white"/>
 </a>
 
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank">
@@ -258,18 +264,42 @@ I am open to working across multiple industries, including:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Professional-1f2937?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Indonesian-Native%20%2F%20Professional-0f172a?style=for-the-badge&logo=googletranslate&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arabic-Beginner-334155?style=for-the-badge&logo=googletranslate&logoColor=white" />
+
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/English-Professional-1f2937?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/Indonesian-Native%20%2F%20Professional-0f172a?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/Arabic-Beginner-334155?style=for-the-badge&logo=googletranslate&logoColor=white" />
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Meta%20Ads-Expert-blue?style=for-the-badge&logo=meta" />
-  <img src="https://img.shields.io/badge/Google%20Ads-Advanced-red?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/SEO-Professional-green?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/Social%20Media-Strategist-purple?style=for-the-badge&logo=instagram" />
+
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/Meta%20Ads-Expert-blue?style=for-the-badge&logo=meta" />
+  </a>
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Ads-Advanced-red?style=for-the-badge&logo=google" />
+  </a>
+
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/SEO-Professional-green?style=for-the-badge&logo=google" />
+  </a>
+
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://img.shields.io/badge/Social%20Media-Strategist-purple?style=for-the-badge&logo=instagram" />
+  </a>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,100:0f172a&height=220&section=header&text=THANK%20YOU!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=If%20you%20like%20my%20profile,%20feel%20free%20to%20follow%20and%20connect!&descAlignY=60"/>
+  <a href="https://github.com/achmadxlubis" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f1a,100:0f172a&height=220&section=header&text=THANK%20YOU!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=If%20you%20like%20my%20profile,%20feel%20free%20to%20follow%20and%20connect!&descAlignY=60"/>
+  </a>
 </p>
