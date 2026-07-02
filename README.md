@@ -12,7 +12,7 @@
 <p align="center">
   👋 Welcome to my digital space where I share my journey in <b>Digital Marketing, Social Media Growth, and Performance Advertising</b>
   <br>
-  Scroll down to explore my skills, projects, and professional experience. 👇✨
+  Scroll down to explore my skills, projects, and professional experience 👇✨
 </p>
 
 <p align="center">
