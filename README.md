@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://ibb.co.com/Nd0y0kq4/>
+  <img src="https://i.ibb.co.com/dwN5N3vh/Achmad-Lubis-Banner-Git-Hub.jpg"type=waving&color=0:0f172a,100:1e3a8a&height=220>
 </p>
 
 <p align="center">
