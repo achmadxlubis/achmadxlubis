@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://ibb.co.com/Nd0y0kq4/Test.png"type=waving&color=0:0f172a,100:1e3a8a&height=220>
+  <img src="https://ibb.co.com/Nd0y0kq4/>
 </p>
 
 <p align="center">
